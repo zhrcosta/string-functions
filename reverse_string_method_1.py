@@ -1,9 +1,8 @@
-"""
-    Função para inverter os caracteres de uma STRING método 1
-"""
 
 
 def reverseString(string):
+
+    # Função para inverter os caracteres de uma STRING método 1
 
     reversed = ""
 
